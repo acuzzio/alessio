@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## My tools
+
+  I leveraged many programming languages and techniques to deliver prime chemistry software. My workhorses are Python and Bash, 
+  but I also employed pure functional programming, like Haskell, or extremely optimized routines in CUDA, cython, fortran and C++. 
+  I have a passion for data analysis and video effects.
+
+image: images/skill/out.mp4
+
+skill:
+  - title: Python
+    percent: 95
+  - title: Data wrangling
+    percent: 90
+  - title: HPC programming
+    percent: 80
+  - title: Multimedia (Blender/Gimp/Inkscape)
+    percent: 95

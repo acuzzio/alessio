@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Welcome to my website!
+content: >
+  # Alessio Valentini Ph.D.
+
+  I am a passionate researcher that lives at the interface between theoretical chemistry and computer science.
+
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/alessio.jpg
+videoThumb: images/hero/popup-thumb2.png
+videoURL: https://www.youtube.com/watch?v=L-8zXFInrOc

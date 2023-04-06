@@ -1,0 +1,65 @@
+---
+enable: true
+topTitle: Experience
+title: >
+  ## My background
+
+  In my career I have continuously delivered high level software to solve chemistry problems. 
+  I am an eager learner and I love to tackle new challenges. 
+tab1Name: Work experience
+tab2Name: Education
+tab1Target: education
+tab2Target: experience
+
+experience:
+  - content: >
+      <img src="images/resume/alcala.png" alt="Alcala Logo" width="90%"></img>
+
+      #### PhD in computational chemistry
+
+      I got my PhD in Spain, Alcala de Henares. 
+      I focused on surface hop semiclassical molecular dynamics applied to natural and synthetic photoactive systems.
+    time: 2015
+  - content: >
+      <img src="images/resume/siena.png" alt="Siena Logo" width="100%"></img>
+
+      #### Master in Chemistry
+
+      I got my master degree in Italy, University of Siena (hosting lab in Bowling Green state university, OH). 
+      My research was on the automatic generation of QM/MM models for photoactive proteins.
+    time: 2011
+  - content: >
+      <img src="images/resume/siena.png" alt="Siena Logo" width="100%"></img>
+
+      #### Bachelor in Chemistry
+
+      I got my batchelor degree at the University of Siena (hosting lab University of Wageningen, NL). 
+      I studied the prediction of protein folding using bioinformatics tools.
+    time: 2008
+
+education:
+  - content: >
+      <img src="images/resume/stanford.png" alt="Stanford Logo" width="100%"></img>
+
+      #### Associate researcher
+
+      Project leader and main package developer of Retropaths, a brand new package to discover chemical reactivity using graph theory. 
+      Developed several protocols to interface the program to reaction discovery and *ab initio* calculations.
+
+    time: 2020-Present
+  - content: >
+      <img src="images/resume/liege.png" alt="Uliege Logo" width="70%"></img>
+
+      #### PostDoc
+
+      Project leader and main developer of a package to perform Quantum Dynamics (and relative analysis) for Attosecond time-scale events.
+    time: 2016-2019
+  - content: >
+      <img src="images/resume/siena.png" alt="Siena Logo" width="100%"></img>
+
+      #### PostDoc
+
+      Streamlined the modelling of photoactive proteins to automatize the study of their
+      excited state dynamic behavior (fluorescence and non radiative decay). 
+    time: 2015-2016
+

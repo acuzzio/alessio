@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Resume and cv
+title: >
+  ## My resume
+content: >
+  ### Check out my resume and CV!!
+
+button1Name: Resume
+button2Name: Academic CV
+button1Target: cv/Alessio_Valentini_Resume.pdf
+button2Target: cv/Alessio_Valentini_Academic_CV.pdf
+image: images/about/alessio2.jpg
