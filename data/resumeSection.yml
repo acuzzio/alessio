@@ -13,6 +13,14 @@ tab2Target: experience
 
 experience:
   - content: >
+      <img src="images/resume/siena.png" alt="Siena Logo" width="100%"></img>
+
+      #### PostDoc
+
+      Streamlined the modelling of photoactive proteins to automatize the study of their
+      excited state dynamic behavior (fluorescence and non radiative decay). 
+    time: 2015-2016
+  - content: >
       <img src="images/resume/alcala.png" alt="Alcala Logo" width="90%"></img>
 
       #### PhD in computational chemistry
@@ -39,6 +47,16 @@ experience:
 
 education:
   - content: >
+      <img src="images/resume/creyon.png" alt="Creyon Logo" width="100%"></img>
+
+      #### Principal Engineer
+
+      Develop and optimize chemical futurizers for machine learning-based toxicity models and computational chemistry pipelines. 
+      Conduct R&D in force field development and data analysis, providing computational tools and support to wet lab researchers 
+      to enhance experimental workflows and data interpretation.
+
+    time: 2023-Present
+  - content: >
       <img src="images/resume/stanford.png" alt="Stanford Logo" width="100%"></img>
 
       #### Associate researcher
@@ -46,7 +64,7 @@ education:
       Project leader and main package developer of Retropaths, a brand new package to discover chemical reactivity using graph theory. 
       Developed several protocols to interface the program to reaction discovery and *ab initio* calculations.
 
-    time: 2020-Present
+    time: 2019-2023
   - content: >
       <img src="images/resume/liege.png" alt="Uliege Logo" width="70%"></img>
 
@@ -54,12 +72,4 @@ education:
 
       Project leader and main developer of a package to perform Quantum Dynamics (and relative analysis) for Attosecond time-scale events.
     time: 2016-2019
-  - content: >
-      <img src="images/resume/siena.png" alt="Siena Logo" width="100%"></img>
-
-      #### PostDoc
-
-      Streamlined the modelling of photoactive proteins to automatize the study of their
-      excited state dynamic behavior (fluorescence and non radiative decay). 
-    time: 2015-2016
 
